@@ -1,4 +1,3 @@
 # Bootstrap
-Creating a my portfolio with HTML and Bootstrap. 
+Creating a my portfolio with HTML using Bootstrap. 
 Check out my finished product https://diachn.github.io/Portfolio/
-Portfolio
